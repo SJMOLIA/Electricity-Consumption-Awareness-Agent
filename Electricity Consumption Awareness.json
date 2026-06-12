@@ -1,0 +1,13 @@
+{
+	"id": "5e537b62-5ec0-436e-9091-7fc501aa3c95",
+	"crn": "crn:v1:bluemix:public:project:us-south:a/9931f780e9be43dabadb5b6f8744ee6e:5e537b62-5ec0-436e-9091-7fc501aa3c95::",
+	"definition": {
+		"name": "Electricity Consumption Awareness",
+		"description": "",
+		"destroy_on_delete": true
+	},
+	"configs": [],
+	"environments": [],
+	"resource_group_id": "acc0e0050a5b4caea52761089a385eef",
+	"location": "us-south"
+}
